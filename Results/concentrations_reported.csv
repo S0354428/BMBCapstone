@@ -1,0 +1,11 @@
+condition,group,dilution_used,conc_mg_mL,sd_mg_mL,status,note
+Induced,Crude,1:10,6.572139303482587,1.3808390267914816,high,approximate: above the linear range of the standard curve
+Induced,E1,1:2,1.582587064676617,0.024630634416888682,high,approximate: above the linear range of the standard curve
+Induced,E2,1:2,1.1402985074626866,0.06125467205158577,high,approximate: above the linear range of the standard curve
+Induced,FT,undiluted,0.4029850746268657,0.018496827308478885,linear,
+Uninduced,Crude,1:10,1.8681592039800998,0.2654591357602803,linear,
+Uninduced,E1,undiluted,0.1756218905472637,0.018345665738798266,linear,
+Uninduced,E2,n/a,0.0,0.0,below detection,below detection
+Uninduced,FT,undiluted,0.25199004975124384,0.012947277293207075,linear,
+Induced,W1,undiluted,0.06592039800995032,0.009390341337401437,linear,
+Uninduced,W1,n/a,0.0,0.0,below detection,below detection
